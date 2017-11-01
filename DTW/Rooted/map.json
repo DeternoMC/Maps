@@ -34,7 +34,7 @@
 					"min": "141, 7, -105",
 					"max": "149, 10, -105"
 				},
-				"health": 5
+				"health": 10
 			},
 			{
 				"name": "Blue Wool",
@@ -44,7 +44,7 @@
 					"min": "215, 7, -279",
 					"max": "207, 10, -279"
 				},
-				"health": 5
+				"health": 10
 			}
 		]
 	},
@@ -54,9 +54,9 @@
 			"items": [
 				{"type": "item", "material": "iron sword", "slot": 0},
 				{"type": "item", "material": "bow", "slot": 1},
-				{"type": "item", "material": "iron spade", "slot": 2},
+				{"type": "item", "material": "iron pickaxe", "slot": 2},
 				{"type": "item", "material": "iron axe", "slot": 3},
-				{"type": "item", "material": "iron pickaxe", "slot": 4},
+				{"type": "item", "material": "iron spade", "slot": 4},
 				{"type": "item", "material": "wood", "slot": 5, "amount": 64, "durability": 5},
 				{"type": "item", "material": "arrow", "slot": 7, "amount": 32},
 				{"type": "item", "material": "cooked beef", "slot": 8, "amount": 64},

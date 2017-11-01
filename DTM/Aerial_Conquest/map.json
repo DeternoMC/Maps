@@ -21,8 +21,8 @@
 	],
 	"spawns": [
 		{ "teams": ["spectators"], "coords": "315.5, 78, -28.5, 90" },
-		{ "teams": ["red"], "coords": "279.5, 24, 37.5, 90" },
-		{ "teams": ["blue"], "coords": "212.5, 24, -92.5, -90" }
+		{ "teams": ["red"], "coords": "272.5, 23, 37.5, 90" },
+		{ "teams": ["blue"], "coords": "219.5, 24, -92.5, -90" }
 	],
 	"dtm": {
 		"monuments": [
@@ -55,7 +55,7 @@
 				{"material": "iron sword", "slot": 0, "enchantments": ["sharpness:1"], "unbreakable": true},
 				{"material": "bow", "slot": 1, "unbreakable": true},
 				{"material": "diamond axe", "slot": 2, "unbreakable": true},
-				{"material": "stone pickaxe", "slot": 3, "unbreakable": true},
+				{"material": "iron pickaxe", "slot": 3, "unbreakable": true},
 
 				{"material": "arrow", "slot": 9, "amount": 64},
 
@@ -67,7 +67,7 @@
 				{"material": "leather boots", "slot": "boots", "unbreakable": true}
 			],
 			"effects": [
-				{"effect": "saturation", "duration": 99999999, "amplifier": 255, "particles": false}
+				{"type": "saturation", "duration": 99999999, "amplifier": 255, "particles": false}
 			]
 		},
 		{
@@ -86,7 +86,7 @@
 		}
 	],
 	"itemremove": [
-		"leather helmet", "iron chestplate", "iron leggings", "leather boots", "gold block", "iron block"
+		"leather helmet", "iron chestplate", "iron leggings", "leather boots"
 	],
 	"filters": [
 		{
